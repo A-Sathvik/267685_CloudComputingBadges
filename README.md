@@ -7,3 +7,6 @@
 
 22/06/2021
 ![](https://github.com/A-Sathvik/267685_CloudComputingBadges/blob/39540ee175ac423560795cc2ec94434bad4191f6/267685%2022-06.png)
+
+23/06/2021
+![](https://github.com/A-Sathvik/267685_CloudComputingBadges/blob/5e8db50dc7388c60240dd3dba3e07b8aa1a97b01/267685%2023-06.png)
